@@ -1,0 +1,6 @@
+/Frontend/.env
+/Frontend/node_modules
+/Frontend/build
+/Frontend/.netlify
+/Backend/node_modules
+/Backend/.env/
