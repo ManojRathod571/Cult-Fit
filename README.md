@@ -32,30 +32,21 @@ CultStore Netlify link : https://superb-syrniki-b9d172.netlify.app/
 
 ![App Screenshot](https://user-images.githubusercontent.com/107462720/212140727-44c1848a-97a2-4324-b131-98a777841fd1.png)
 
-## Admin's Page
-
-![App Screenshot](https://user-images.githubusercontent.com/107462720/212140876-acc3c229-36a4-47cb-a83c-4d06d44a970a.png)
-
-## Admin's Product Page
-
-![App Screenshot](https://user-images.githubusercontent.com/107462720/212140982-9113b63d-7ea5-490f-87ed-eef4c52b57b6.png)
-
 ## Signup Page
 
 ![App Screenshot](https://user-images.githubusercontent.com/107462720/212141074-18c7c5d3-3508-4615-956b-b3f250d9f07a.png)
-
 
 ## Features
 
 - Authentication for both user and admin
 - User can search All Gym Products/Vitamins/Essentials as per their choice
 - All the filter, sorting, searching and many more functionalities present in this website as any E-Commerce website has.
-- Website has role based access control system 
+- Website has role based access control system
 - All the pages are fully Responsive
 
 ## Project Duration
 
-- A solo project developed with in 06 days
+- A solo project developed with in 07 days
 
 ## Tech Stack
 
@@ -77,15 +68,6 @@ CultStore Netlify link : https://superb-syrniki-b9d172.netlify.app/
 **Server for API:**
 
 - cyclic.sh
-
-## Contact
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/Akshay_Rajput-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-rajput-422794220/)
-[![Github](https://img.shields.io/badge/Akshay_Rajput-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/actuallyakshay)
-
-© 2022 Akshay Rajput
 
 ## Show your support
 
